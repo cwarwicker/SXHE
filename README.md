@@ -1,1 +1,1 @@
-# SXHE
+Library of Weight training methods.
